@@ -6,3 +6,5 @@ ini branch 2
 2023 pengen:
 1. Sukses
 2. FIRE
+
+#edit main
