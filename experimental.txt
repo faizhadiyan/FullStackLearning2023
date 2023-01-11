@@ -7,4 +7,4 @@ ini branch 2 part 2
 1. Sukses
 2. FIRE
 
-edit1 #branch2
+#edit main
